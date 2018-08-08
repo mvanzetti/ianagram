@@ -1,0 +1,13 @@
+build
+.gradle
+.idea
+.cache
+classes
+out
+
+# IDEs and editors
+.project
+.classpath
+*.launch
+.settings/
+.pydevproject
